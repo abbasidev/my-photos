@@ -1,1 +1,1 @@
-# my-photos
+# My Photos
