@@ -1,4 +1,4 @@
-my-photos-23 checked
-my-photos-23-f checked
+my-photos-23 checked 130 - OK
+my-photos-23-f checked 70 - OK
 my-photos-24
-my-photos-24-f checked
+my-photos-24-f checked 67
